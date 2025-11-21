@@ -27,7 +27,7 @@ O objetivo principal foi demonstrar na prática a implementação de um canal de
 |----------|---------------|
 | **Instituição** | INFNET - Instituto Infnet de Educação, Ciência e Tecnologia |
 | **Curso** | Engenharia de Software |
-| **Disciplina** | Projeto em Bloco - Segurança em Redes |
+| **Disciplina** | Projeto em Bloco |
 | **Período** | 2024.2 |
 | **Professor** | Vitor Amadeu |
 
